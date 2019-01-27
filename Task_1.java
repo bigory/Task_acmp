@@ -7,7 +7,7 @@ public class Task_1 {
         Scanner sc = new Scanner(System.in);
         int A = sc.nextInt();
         int B = sc.nextInt();
-        int sum = A + B;
+        int sum = A;
         System.out.println(sum);
     }
             }
